@@ -1,6 +1,6 @@
 # Green University Computer Club (GUCC)!
 
-![GUCC Logo](https://green.edu.bd/public//images/clubs/cse-club.png)
+![GUCC Logo](../assets/gucc-logo.png)
 
 ## About Us
 The **Green University Computer Club (GUCC)** is a dynamic and student-driven non-profit and non-political organization, working in collaboration with the **Department of Computer Science and Engineering (CSE)** at **Green University of Bangladesh**. With a thriving community of **7000+ members**, our mission is to empower and guide students in their pursuit of successful careers in modern **computer science and engineering**.
