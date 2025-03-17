@@ -33,7 +33,7 @@ Our vision is to **enhance leadership** and **develop professional skills** amon
 ---
 ## 🌐 Connect With Us
 📧 Email: [gucc@green.edu.bd](mailto:gucc@green.edu.bd)  
-🌍 Website: [Coming Soon]  
+🌍 Website: [Green University Computer Club](https://gucc.green.edu.bd)  
 📱 Social Media: [Facebook](https://www.facebook.com/GreenUniversityComputerClub) | [LinkedIn](https://www.linkedin.com/company/greenuniversitycomputerclub)
 
 Join us in shaping the future of technology! 💻✨
